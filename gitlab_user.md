@@ -4,7 +4,7 @@
 > 目录
 
 
-* [gitLab基本用法](#gitlab基本用法)
+* [GitLab基本用法](#gitlab基本用法)
     * [设置ssh_key](#设置ssh_key)
     * [建立工程](#建立工程)
     * [配置工程分支权限](#配置工程分支权限)
@@ -12,7 +12,7 @@
     * [新建分支与合并分支（基于Idea)](#新建分支与合并分支)   
     
     
-# gitlab基本用法
+# Gitlab基本用法
 
 
 ## 设置ssh_key
@@ -89,7 +89,7 @@
    * 提交：Git->Push,选择目标Branch即可
    * 合并：在网页端对Branch发起Merge Request，填写相关信息后由管理者审核
       *Idea里面的Merge Changes没用明白，Merge成功之后没有收到Merge Request，希望比较了解的大佬指导一下 
-      
-##参考资料
+
+## 参考资料 
 
 [在Idea中实战Git](https://www.2cto.com/kf/201609/547838.html)
