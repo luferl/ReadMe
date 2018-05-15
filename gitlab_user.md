@@ -9,7 +9,7 @@
     * [建立工程](#建立工程)
     * [配置工程分支权限](#配置工程分支权限)
     * [配置工程人员权限](#配置工程人员权限)
-    * [新建分支与合并分支（基于Idea)](#新建分支与合并分支(基于idea))   
+    * [新建分支与合并分支（基于Idea)](#新建分支与合并分支)   
     
     
 # gitlab基本用法
@@ -75,7 +75,7 @@
 |修改项目可见状态|||||✓|
 |删除问题|||||✓|
 
-## 新建分支与合并分支(基于Idea)
+## 新建分支与合并分支
 * 新建分支
    * VCS->Git->Branches(或在项目上右键Git->Repository->Branches)
    * 选择＋New Branch，输入分支名即可
@@ -89,8 +89,7 @@
    * 提交：Git->Push,选择目标Branch即可
    * 合并：在网页端对Branch发起Merge Request，填写相关信息后由管理者审核
       *Idea里面的Merge Changes没用明白，Merge成功之后没有收到Merge Request，希望比较了解的大佬指导一下 
-
-
+      
 ##参考资料
 
 [在Idea中实战Git](https://www.2cto.com/kf/201609/547838.html)
