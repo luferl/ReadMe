@@ -4,6 +4,8 @@
 > 目录
 * [总体流程与要求](#总体流程与要求)
 * [具体流程](#具体流程)
+    * [Git Bash版本](#Git Bash版本)
+    * [Idea版本](#Idea版本)
 * [注意事项](#注意事项)
 * [配置工程人员权限](#配置工程人员权限)
 * [新建分支与合并分支（基于Idea)](#新建分支与合并分支)   
@@ -28,7 +30,8 @@ Push当前分支
 
 
 ## 具体流程
-> Git Bash版本（不推荐，因为对具体文件的控制不方便）
+### Git Bash版本
+（不推荐，因为对具体文件的控制不方便）
 * 切换到目标目录
     >Cd YourDirectory
 * 克隆项目
@@ -51,7 +54,7 @@ Push当前分支
     >git push origin BranchName
 * 在Gitlab页面对该分支发起Merge Request，traget branch选择Develop
 
->Idea版本
+### Idea版本
 * 克隆项目
     >File->New->Project From Version Control->Git
     URL填写项目SSH地址，目录选择本地目录
