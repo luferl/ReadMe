@@ -89,7 +89,7 @@
    * 提交：Git->Push,选择目标Branch即可
    * 合并：在网页端对Branch发起Merge Request，填写相关信息后由管理者审核
       *Idea里面的Merge Changes没用明白，Merge成功之后没有收到Merge Request，希望比较了解的大佬指导一下 
-      
-##参考资料
+
+## 参考资料 
 
 [在Idea中实战Git](https://www.2cto.com/kf/201609/547838.html)
