@@ -142,6 +142,6 @@
 建议先以一个特定场景为例开发Demo
 
 
-##参考资料
+## 参考资料
 
 [微信公众平台-全局返回码说明](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1433747234)
