@@ -4,12 +4,10 @@
 > 目录
 * [总体流程与要求](#总体流程与要求)
 * [具体流程](#具体流程)
-    * [Git Bash版本](#Git Bash版本)
-    * [Idea版本](#Idea版本)
+   * [Git Bash版本](#gitbash版本)
+   * [Idea版本](#idea版本)
 * [注意事项](#注意事项)
-* [配置工程人员权限](#配置工程人员权限)
-* [新建分支与合并分支（基于Idea)](#新建分支与合并分支)   
-    
+* [其他问题](#其他问题)
     
 
 ## 总体流程与要求
@@ -30,7 +28,8 @@ Push当前分支
 
 
 ## 具体流程
-### Git Bash版本
+
+### Git&nbsp;Bash版本
 （不推荐，因为对具体文件的控制不方便）
 * 切换到目标目录
     >Cd YourDirectory
@@ -47,7 +46,7 @@ Push当前分支
 * 保存到本地仓库
     >git commit -m 'Commit Comment'
 * 拉取远程仓库代码
-    >git pull origin Develop
+    >git pull origin Devel
 * 解决文件冲突（如果有的话）
 
 * 提交到远程仓库
